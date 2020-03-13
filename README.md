@@ -1,13 +1,13 @@
 # Python-API-Challenge
 
-### THIS FOLDER CONTAINS:
+# THIS FOLDER CONTAINS:
 
 1. An Analysis of the Relationship between Latitude and Weather for the Northern & Southern Hemispheres
 2. Identified Cities that have good weather (based on certain pre-defined criteria) and then locates a hotel for each of these cities.
 
 
 
-### KEY FINDINGS FROM OUR ANALYSIS:
+# KEY FINDINGS FROM OUR ANALYSIS:
 
 ## Relationship between Latitude & Temperature:
 There is a strong negative correlation between Latitude and Temperature in the Northern Hemisphere.
@@ -21,6 +21,6 @@ There is a very low correlation between Latitude and Humidity in the Southern He
 There is a very low correlation between Latitude and Cloudiness in the Northern Hemisphere.
 There is a very low correlation between Latitude and Cloudiness in the Southern Hemisphere.
 
-## Relationship between Latitude & Cloudiness:
+## Relationship between Latitude & Wind Speed:
 There is a very low correlation between Latitude and Wind Speed in the Northern Hemisphere.
 There is a very low correlation between Latitude and Wind Speed in the Southern Hemisphere.
