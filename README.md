@@ -3,7 +3,7 @@
 # THIS FOLDER CONTAINS:
 
 1. An Analysis of the Relationship between Latitude and Weather for the Northern & Southern Hemispheres
-2. Identified Cities that have good weather (based on certain pre-defined criteria) and then locates a hotel for each of these cities.
+2. A Listing of Cities that have good weather (based on certain pre-defined criteria) and the location of a hotel for each of these cities.
 
 
 
